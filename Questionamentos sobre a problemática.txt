@@ -1,0 +1,18 @@
+1 - Eu quero saber qual foi o produto que mais vendeu no ano de 2019
+
+2 - Quero saber qual foi o produto que menos vendeu e porque ? Foi por causa do tipo de produto ? Veja se o produto reincidiu nos meses como menos vendido ou se nao.
+
+3 - Quero saber a projecao das vendas durante o ano e qual o mes que mais vendeu e o que menos vendeu ?
+
+4 - Se possivel construa um relatorio com o maximo de informacao possivel. 
+
+"iPhone"                     "Lightning Charging Cable"  
+"Wired Headphones"           "27in FHD Monitor"          
+"AAA Batteries (4-pack)"     "27in 4K Gaming Monitor"    
+"USB-C Charging Cable"       "Bose SoundSport Headphones"
+"Apple Airpods Headphones"   "Macbook Pro Laptop"        
+"Flatscreen TV"              "Vareebadd Phone"           
+"AA Batteries (4-pack)"      "Google Phone"              
+"20in Monitor"               "34in Ultrawide Monitor"    
+"ThinkPad Laptop"            "LG Dryer"                  
+"LG Washing Machine"                   
