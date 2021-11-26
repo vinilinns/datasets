@@ -1,4 +1,0 @@
-1 - Eu quero saber qual foi o produto que mais vendeu no ano de 2019
-2 - Quero saber qual foi o produto que menos vendeu e porque ? Foi por causa do tipo de produto ? Veja se o produto reincidiu nos meses como menos vendido ou se não.
-3 - Quero saber a projeção das vendas durante o ano e qual o mês que mais vendeu e o que menos vendeu ?
-4 - Se possivel constra um relatório com o máximo de informação possível. 
